@@ -1,0 +1,524 @@
+---
+date: 2015-06-30
+title: Activity Digest: June 2015
+aliases: ['/news/news.20150701.html']
+---
+<div class="col-md-8 main">
+ <div class="row">
+  <h3>
+   Activity Digest: June 2015
+   <small>
+    2015-06-30
+   </small>
+  </h3>
+  <p>
+   This is an ongoing series of activity reports, published monthly,
+            to highlight activity in the Taskwarrior project. Here is what
+            happened in June 2015.
+  </p>
+  <table class="table table-striped table-compact">
+   <tr>
+    <td style="white-space: nowrap;">
+     <small>
+      2015-06-02
+     </small>
+    </td>
+    <td>
+     Tasksh gains the ability to detect terminal width, and display
+                colored banners.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-02
+     </small>
+    </td>
+    <td>
+     Tasksh gains UTF-8 support.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-02
+     </small>
+    </td>
+    <td>
+     Tasksh gains a more polished
+     <code>
+      review
+     </code>
+     command, which
+                manages a GTD-like review session of your tasks, remembering
+                where it left off, and not revisiting tasks too often. With
+                upcoming Taskwarrior enhancements, this feature will be
+                functional.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-03
+     </small>
+    </td>
+    <td>
+     A JSON parser memory leak was fixed, which is likely the cause
+                of the long-standing non-linear performance of the parser.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-03
+     </small>
+    </td>
+    <td>
+     Tasksh gains a stub of a shell command, to run external software.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-04
+     </small>
+    </td>
+    <td>
+     When listing contexts, the active context is now also shown.
+                This is as close as Taskwarrior gets to being user-friendly.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-05
+     </small>
+    </td>
+    <td>
+     The
+     <code>
+      task edit
+     </code>
+     command no longer borks annotations
+                when newlines
+     <code>
+      \n
+     </code>
+     are found in the description.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-05
+     </small>
+    </td>
+    <td>
+     The sin of modifying a task to depend on another, when it
+                already does so, has been downgraded from error to NOP.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-05
+     </small>
+    </td>
+    <td>
+     The unit test framework gains more capabilities, and more tests
+                are migrated from Perl to Python. Why are we migrating? 
+                There are two main reason to move to Python: there is more
+                enthusiasm for Python in the community, and our Python test
+                framework is gaining some very powerful features. One in
+                particular is the degree of isolation between test scripts,
+                which is allowing us to parallelize the test suite. Although
+                we could easily improve the Perl framework, we have decided not
+                to.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-06
+     </small>
+    </td>
+    <td>
+     The test framework gains the ability to do some very suspicious
+                things like test the
+     <code>
+      task edit
+     </code>
+     feature. Magic.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-06
+     </small>
+    </td>
+    <td>
+     Wisdom gained: Even the most trivial change needs to be tested
+                for idiocy.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-06
+     </small>
+    </td>
+    <td>
+     The command line parser, the darkest, most disturbing part of
+                Taskwarrior, begins to be beaten into shape. First up: clean up
+                the worst of the cruft.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-07
+     </small>
+    </td>
+    <td>
+     The
+     <code>
+      project
+     </code>
+     verbosity token now implies the
+     <code>
+      footnote
+     </code>
+     token. This is the beginning of a more
+                sensible cascading mechanism for verbosity.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-09
+     </small>
+    </td>
+    <td>
+     Many polymorphic text formatting functions are converted to
+                C++11 variadic templates. An exciting day for Taskwarrior users!
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-09
+     </small>
+    </td>
+    <td>
+     The unit test suite, with shocking honesty, now declares tests
+                as not expected to pass, rather than commenting them out and
+                pretending they don't exist. It's becoming harder to lie about
+                features working.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-11
+     </small>
+    </td>
+    <td>
+     The TAP output generated by the test suite becomes more verbose
+                and useful.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-11
+     </small>
+    </td>
+    <td>
+     The BY and RU holiday files now include International Women's
+                Day, which was mistakenly ommitted.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-13
+     </small>
+    </td>
+    <td>
+     Once again, there are two command line parsers in Taskwarrior,
+                the current one, and a new shadow parser that will grow to
+                become better than the current one, ultimately replace it.
+                Why are we doing this?
+     <ol>
+      <li>
+       Parsers are fun!
+      </li>
+      <li>
+       Destabilizing code is exciting
+      </li>
+      <li>
+       The command line evolves and the parser needs to catch up
+      </li>
+      <li>
+       Bugs, Bee populations
+      </li>
+      <li>
+       All of the above
+      </li>
+     </ol>
+     Correct answer is (5).
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-19
+     </small>
+    </td>
+    <td>
+     The command line parser learned to recognized ID ranges in a
+                much better way.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-21
+     </small>
+    </td>
+    <td>
+     Taskwarrior wasn't recognizing the form
+     <code>
+      due=now
+     </code>
+     and
+     <code>
+      due.before=today
+     </code>
+     , but no one appears to have noticed.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-22
+     </small>
+    </td>
+    <td>
+     Fixed a bug where
+     <code>
+      proj
+     </code>
+     was neither recognized as
+                the command
+     <code>
+      projects
+     </code>
+     , or the attribute
+     <code>
+      project
+     </code>
+     .
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-22
+     </small>
+    </td>
+    <td>
+     Fixed a bug where a second terminator
+     <code>
+      --
+     </code>
+     was
+                considered to be another terminator, but it should have been
+                considered just text.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-22
+     </small>
+    </td>
+    <td>
+     The test suite now recognizes cases where tests pass, but were
+                expected to fail, and flags this. Prior to this, these cases
+                were hard to spot.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-22
+     </small>
+    </td>
+    <td>
+     The library dependency GnuTLS is now required, unless the
+     <code>
+      cmake
+     </code>
+     option
+     <code>
+      -DENABLE_SYNC=OFF
+     </code>
+     is
+                specified. There have just been too many folks installing
+                binary packages with no sync capability, that then need to
+                builds from source. That's just cruel.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-22
+     </small>
+    </td>
+    <td>
+     Fixed bug where UUID's were considered string, and not
+                properly filtered.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-24
+     </small>
+    </td>
+    <td>
+     Fixed problem where 'pair' type arguments (
+     <code>
+      name:value
+     </code>
+     )
+                were not properly downgraded to 'text' when they were not
+                recognized.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-25
+     </small>
+    </td>
+    <td>
+     The test suite overhaul, and
+     <a href="http://tasktools.org/stats/composition.png">
+      Python conversion
+     </a>
+     is now at the point where
+     <em>
+      most
+     </em>
+     of the tests are no
+                longer Perl tests.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-25
+     </small>
+    </td>
+    <td>
+     The test suite overhaul continues, and the old
+     <code>
+      --fast
+     </code>
+     option is now the default, and the whole test suite runs in under
+                twenty seconds (on this arbitrary piece of hardward), because
+                of parallelization. The
+     <code>
+      run_all
+     </code>
+     and
+     <code>
+      problems
+     </code>
+     scripts are updated with more details,
+                options and easy-to-interpret color. The test suite is becoming
+                a much more powerful debugging tool.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-27
+     </small>
+    </td>
+    <td>
+     Taskwarrior loses support for ambiguous ISO-8601 date formats,
+                such as
+     <code>
+      YYYYMMDD
+     </code>
+     and
+     <code>
+      hhmmss
+     </code>
+     for time.
+                This leaves the clearer extended forms (
+     <code>
+      YYYY-MM-DD
+     </code>
+     and
+     <code>
+      hh:mm:ss
+     </code>
+     ) intact, and the old forms still
+                available via
+     <code>
+      rc.dateformat
+     </code>
+     . This reduces command
+                line parser ambiguity - a good thing.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-27
+     </small>
+    </td>
+    <td>
+     For years now, deleting a task has generated feedback that says
+                it is 'permanently' removed. This it not true, especially with
+                the
+     <code>
+      undo
+     </code>
+     command. Fixed.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-27
+     </small>
+    </td>
+    <td>
+     Taskwarrior now produces an error if you try to modify a virtual
+                tag. Previously this succeeded, but the presence of the tag was
+                hidden.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <small>
+      2015-06-30
+     </small>
+    </td>
+    <td>
+     A sync error message was corrected to stop it from lying to
+                users about account enabling.
+    </td>
+   </tr>
+  </table>
+  <br/>
+  <br/>
+ </div>
+</div>
+
