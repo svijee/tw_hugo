@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+
+<div class="row">
+	<div class="col-sm-12 doc-main">
+      <p class="lead">
+        Here is the complete set of Taskwarrior and Taskserver documentation.
+      </p>
+    </div>
+    <div class="col-sm-10 main">
+      {{ .Content }}
+	</div> <!-- /.doc-main -->
+</div> <!-- /.row -->
+
+{{ partial "footer.html" . }}
