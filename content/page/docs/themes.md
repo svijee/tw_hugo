@@ -1,6 +1,6 @@
 ---
-title: 'Color Themes'
-url: "/docs/themes.html"
+title: "Color Themes"
+url: '/docs/themes.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

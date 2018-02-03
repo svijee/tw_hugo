@@ -1,6 +1,6 @@
 ---
-title: 'Deprecated Features'
-url: "/docs/deprecated.html"
+title: "Deprecated Features"
+url: '/docs/deprecated.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

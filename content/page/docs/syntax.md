@@ -1,6 +1,6 @@
 ---
-title: 'Command Line Syntax'
-url: "/docs/syntax.html"
+title: "Command Line Syntax"
+url: '/docs/syntax.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

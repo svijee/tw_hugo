@@ -1,6 +1,6 @@
 ---
-title: 'Escaping Command Line Characters'
-url: "/docs/escapes.html"
+title: "Escaping Command Line Characters"
+url: '/docs/escapes.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

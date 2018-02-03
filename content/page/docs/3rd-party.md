@@ -1,6 +1,6 @@
 ---
-title: '3rd-Party Application Guidelines'
-url: "/docs/3rd-party.html"
+title: "3rd-Party Application Guidelines"
+url: '/docs/3rd-party.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

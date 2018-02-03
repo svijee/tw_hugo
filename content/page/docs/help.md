@@ -1,6 +1,6 @@
 ---
-title: 'Getting Help'
-url: "/docs/help.html"
+title: "Getting Help"
+url: '/docs/help.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

@@ -1,6 +1,6 @@
 ---
-title: 'What Have We Learned From This Open Source Project?'
-url: "/docs/advice.html"
+title: "What Have We Learned From This Open Source Project?"
+url: '/docs/advice.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

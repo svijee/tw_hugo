@@ -1,6 +1,6 @@
 ---
-title: 'Durations'
-url: "/docs/durations.html"
+title: "Durations"
+url: '/docs/durations.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

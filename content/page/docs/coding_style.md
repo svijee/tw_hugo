@@ -1,6 +1,6 @@
 ---
-title: 'Coding Style'
-url: "/docs/coding_style.html"
+title: "Coding Style"
+url: '/docs/coding_style.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

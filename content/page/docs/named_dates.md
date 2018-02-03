@@ -1,6 +1,6 @@
 ---
-title: 'Named Dates'
-url: "/docs/named_dates.html"
+title: "Named Dates"
+url: '/docs/named_dates.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

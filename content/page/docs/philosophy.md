@@ -1,6 +1,6 @@
 ---
-title: 'Taskwarrior Philosophy'
-url: "/docs/philosophy.html"
+title: "Taskwarrior Philosophy"
+url: '/docs/philosophy.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

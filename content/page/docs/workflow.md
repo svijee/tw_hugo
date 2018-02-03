@@ -1,6 +1,6 @@
 ---
-title: 'Workflow Examples'
-url: "/docs/workflow.html"
+title: "Workflow Examples"
+url: '/docs/workflow.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

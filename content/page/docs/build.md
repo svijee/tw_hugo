@@ -1,6 +1,6 @@
 ---
-title: 'How To Build Taskwarrior'
-url: "/docs/build.html"
+title: "How To Build Taskwarrior"
+url: '/docs/build.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

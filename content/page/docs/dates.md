@@ -1,6 +1,6 @@
 ---
-title: 'Date & Time'
-url: "/docs/dates.html"
+title: "Date & Time"
+url: '/docs/dates.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

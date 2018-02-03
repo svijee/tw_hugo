@@ -1,6 +1,6 @@
 ---
-title: 'Triage'
-url: "/docs/triage.html"
+title: "Triage"
+url: '/docs/triage.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

@@ -1,6 +1,6 @@
 ---
-title: 'Want to Contribute?'
-url: "/docs/contribute.html"
+title: "Want to Contribute?"
+url: '/docs/contribute.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

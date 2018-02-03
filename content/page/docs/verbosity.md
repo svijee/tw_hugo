@@ -1,6 +1,6 @@
 ---
-title: 'Verbosity'
-url: "/docs/verbosity.html"
+title: "Verbosity"
+url: '/docs/verbosity.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

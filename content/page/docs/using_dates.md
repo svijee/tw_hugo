@@ -1,6 +1,6 @@
 ---
-title: 'Using Dates Effectively'
-url: "/docs/using_dates.html"
+title: "Using Dates Effectively"
+url: '/docs/using_dates.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

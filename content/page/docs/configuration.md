@@ -1,6 +1,6 @@
 ---
-title: 'Configuration'
-url: "/docs/configuration.html"
+title: "Configuration"
+url: '/docs/configuration.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

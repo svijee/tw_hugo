@@ -1,6 +1,6 @@
 ---
-title: 'How to become an Open Source Contributor'
-url: "/docs/first_time.html"
+title: "How to become an Open Source Contributor"
+url: '/docs/first_time.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

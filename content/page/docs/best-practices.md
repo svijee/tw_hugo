@@ -1,6 +1,6 @@
 ---
-title: 'Best Practices'
-url: "/docs/best-practices.html"
+title: "Best Practices"
+url: '/docs/best-practices.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

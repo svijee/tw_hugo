@@ -1,6 +1,6 @@
 ---
-title: 'Tags & Virtual Tags'
-url: "/docs/tags.html"
+title: "Tags & Virtual Tags"
+url: '/docs/tags.html'
 ---
 <div class="col-md-10 main">
  <div class="row">

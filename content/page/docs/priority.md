@@ -1,6 +1,6 @@
 ---
-title: 'Priority'
-url: "/docs/priority.html"
+title: "Priority"
+url: '/docs/priority.html'
 ---
 <div class="col-md-10 main">
  <div class="row">
