@@ -1,6 +1,6 @@
 ---
 date: 2014-06-07
-title: Vit 1.2 in Homebrew
+title: 'Vit 1.2 in Homebrew'
 aliases: ['/news/news.20140607.html']
 ---
 <div class="col-md-8 main">

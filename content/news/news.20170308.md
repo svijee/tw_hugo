@@ -1,6 +1,6 @@
 ---
 date: 2017-03-08
-title: HELLOTUX Shirts
+title: 'HELLOTUX Shirts'
 aliases: ['/news/news.20170308.html']
 ---
 <div class="col-md-8 main">

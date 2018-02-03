@@ -1,6 +1,6 @@
 ---
 date: 2016-08-21
-title: Timewarrior 1.0.0 Released
+title: 'Timewarrior 1.0.0 Released'
 aliases: ['/news/news.20160821.html']
 ---
 <div class="col-md-8 main">

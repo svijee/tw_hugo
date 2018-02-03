@@ -1,6 +1,6 @@
 ---
 date: 2014-02-27
-title: New Site Live
+title: 'New Site Live'
 aliases: ['/news/news.20140227.html']
 ---
 <div class="col-md-8 main">

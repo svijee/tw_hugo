@@ -1,6 +1,6 @@
 ---
 date: 2014-05-24
-title: Taskwarrior 2.4.0 Development Status
+title: 'Taskwarrior 2.4.0 Development Status'
 aliases: ['/news/news.20140524.html']
 ---
 <div class="col-md-8 main">

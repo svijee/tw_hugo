@@ -1,6 +1,6 @@
 ---
 date: 2015-10-29
-title: Taskwarrior Mailing Lists
+title: 'Taskwarrior Mailing Lists'
 aliases: ['/news/news.20151029.html']
 ---
 <div class="col-md-8 main">

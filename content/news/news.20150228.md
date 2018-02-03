@@ -1,6 +1,6 @@
 ---
 date: 2015-02-28
-title: Taskwarrior 2.4.1 on Cygwin 32 and 64 bit
+title: 'Taskwarrior 2.4.1 on Cygwin 32 and 64 bit'
 aliases: ['/news/news.20150228.html']
 ---
 <div class="col-md-8 main">

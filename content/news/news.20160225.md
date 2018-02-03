@@ -1,6 +1,6 @@
 ---
 date: 2016-02-25
-title: Taskwarrior for Android Released
+title: 'Taskwarrior for Android Released'
 aliases: ['/news/news.20160225.html']
 ---
 <div class="col-md-8 main">

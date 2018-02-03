@@ -1,6 +1,6 @@
 ---
 date: 2016-09-05
-title: Tasksh 1.1.0 Released
+title: 'Tasksh 1.1.0 Released'
 aliases: ['/news/news.20160905.2.html']
 ---
 <div class="col-md-8 main">

@@ -1,6 +1,6 @@
 ---
 date: 2015-06-27
-title: GTD With Taskwarrior - a tutorial series
+title: 'GTD With Taskwarrior - a tutorial series'
 aliases: ['/news/news.20150627.html']
 ---
 <div class="col-md-8 main">

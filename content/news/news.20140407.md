@@ -1,6 +1,6 @@
 ---
 date: 2014-04-07
-title: Q & A Site Launched
+title: 'Q & A Site Launched'
 aliases: ['/news/news.20140407.html']
 ---
 <div class="col-md-8 main">

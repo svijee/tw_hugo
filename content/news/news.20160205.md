@@ -1,6 +1,6 @@
 ---
 date: 2016-02-05
-title: Taskwarrior 2.5.1 Beta Released
+title: 'Taskwarrior 2.5.1 Beta Released'
 aliases: ['/news/news.20160205.html']
 ---
 <div class="col-md-8 main">

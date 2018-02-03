@@ -1,6 +1,6 @@
 ---
 date: 2016-12-09
-title: In-House Talk and Workshop at TNG Technology Consulting
+title: 'In-House Talk and Workshop at TNG Technology Consulting'
 aliases: ['/news/news.20161209.html']
 ---
 <div class="col-md-8 main">

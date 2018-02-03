@@ -1,6 +1,6 @@
 ---
 date: 2014-10-11
-title: Taskwarrior 2.4.0 beta2
+title: 'Taskwarrior 2.4.0 beta2'
 aliases: ['/news/news.20141011.html']
 ---
 <div class="col-md-8 main">

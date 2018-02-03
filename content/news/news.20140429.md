@@ -1,6 +1,6 @@
 ---
 date: 2014-04-29
-title: Teaching the Parser New Tricks
+title: 'Teaching the Parser New Tricks'
 aliases: ['/news/news.20140429.html']
 ---
 <div class="col-md-8 main">

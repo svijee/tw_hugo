@@ -1,6 +1,6 @@
 ---
 date: 2016-08-13
-title: FrOSCon 2016 - Taskwarrior Coverage
+title: 'FrOSCon 2016 - Taskwarrior Coverage'
 aliases: ['/news/news.20160813.html']
 ---
 <div class="col-md-8 main">

@@ -1,6 +1,6 @@
 ---
 date: 2014-08-16
-title: Development Status
+title: 'Development Status'
 aliases: ['/news/news.20140816.html']
 ---
 <div class="col-md-8 main">

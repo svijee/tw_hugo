@@ -1,6 +1,6 @@
 ---
 date: 2014-05-10
-title: Swiss Ubucon Taskwarrior Workshop
+title: 'Swiss Ubucon Taskwarrior Workshop'
 aliases: ['/news/news.20140510.html']
 ---
 <div class="col-md-8 main">

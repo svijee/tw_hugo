@@ -1,6 +1,6 @@
 ---
 date: 2014-02-26
-title: Registrations Disabled
+title: 'Registrations Disabled'
 aliases: ['/news/news.20140226.html']
 ---
 <div class="col-md-8 main">

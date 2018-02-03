@@ -1,6 +1,6 @@
 ---
 date: 2015-01-03
-title: Date & Time Support
+title: 'Date & Time Support'
 aliases: ['/news/news.20150103.html']
 ---
 <div class="col-md-8 main">

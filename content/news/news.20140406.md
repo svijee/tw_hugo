@@ -1,6 +1,6 @@
 ---
 date: 2014-04-06
-title: Vit 1.2 is released
+title: 'Vit 1.2 is released'
 aliases: ['/news/news.20140406.html']
 ---
 <div class="col-md-8 main">

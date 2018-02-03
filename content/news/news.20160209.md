@@ -1,6 +1,6 @@
 ---
 date: 2016-02-09
-title: Taskwarrior Workflow Study
+title: 'Taskwarrior Workflow Study'
 aliases: ['/news/news.20160209.html']
 ---
 <div class="col-md-8 main">

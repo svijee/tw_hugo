@@ -1,6 +1,6 @@
 ---
 date: 2016-04-07
-title: Taskwarrior running under "Bash on Ubuntu on Windows"
+title: 'Taskwarrior running under "Bash on Ubuntu on Windows"'
 aliases: ['/news/news.20160407.html']
 ---
 <div class="col-md-8 main">

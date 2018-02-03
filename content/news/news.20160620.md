@@ -1,6 +1,6 @@
 ---
 date: 2016-06-20
-title: Timewarrior 0.9.5 Alpha Release
+title: 'Timewarrior 0.9.5 Alpha Release'
 aliases: ['/news/news.20160620.html']
 ---
 <div class="col-md-8 main">

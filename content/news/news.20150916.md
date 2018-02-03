@@ -1,6 +1,6 @@
 ---
 date: 2015-09-16
-title: Taskwarrior 2.5.0 beta2 Released
+title: 'Taskwarrior 2.5.0 beta2 Released'
 aliases: ['/news/news.20150916.html']
 ---
 <div class="col-md-8 main">

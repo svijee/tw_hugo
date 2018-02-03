@@ -1,6 +1,6 @@
 ---
 date: 2016-11-16
-title: Resolving with dnsimple
+title: 'Resolving with dnsimple'
 aliases: ['/news/news.20161116.html']
 ---
 <div class="col-md-8 main">

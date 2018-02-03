@@ -1,6 +1,6 @@
 ---
 date: 2017-05-10
-title: BYOP MeetUp in Gothenburg
+title: 'BYOP MeetUp in Gothenburg'
 aliases: ['/news/news.20170510_2.html']
 ---
 <div class="col-md-8 main">

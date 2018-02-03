@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09
-title: Tasksh in Homebrew
+title: 'Tasksh in Homebrew'
 aliases: ['/news/news.20150509.html']
 ---
 <div class="col-md-8 main">

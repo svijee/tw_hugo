@@ -1,6 +1,6 @@
 ---
 date: 2016-05-14
-title: Timewarrior Preview
+title: 'Timewarrior Preview'
 aliases: ['/news/news.20160514.html']
 ---
 <div class="col-md-8 main">

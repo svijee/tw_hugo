@@ -1,6 +1,6 @@
 ---
 date: 2017-04-02
-title: Code Repositories Moved
+title: 'Code Repositories Moved'
 aliases: ['/news/news.20170402.html']
 ---
 <div class="col-md-8 main">

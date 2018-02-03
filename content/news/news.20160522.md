@@ -1,6 +1,6 @@
 ---
 date: 2016-05-22
-title: Taskwarrior Tools Search
+title: 'Taskwarrior Tools Search'
 aliases: ['/news/news.20160522.html']
 ---
 <div class="col-md-8 main">

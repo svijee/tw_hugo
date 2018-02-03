@@ -1,6 +1,6 @@
 ---
 date: 2014-09-06
-title: Fish Shell Completion Demo
+title: 'Fish Shell Completion Demo'
 aliases: ['/news/news.20140906.html']
 ---
 <div class="col-md-8 main">

@@ -1,6 +1,6 @@
 ---
 date: 2017-02-08
-title: FOSDEM 2017: Reprise
+title: 'FOSDEM 2017: Reprise'
 aliases: ['/news/news.20170208.html']
 ---
 <div class="col-md-8 main">

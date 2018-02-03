@@ -1,6 +1,6 @@
 ---
 date: 2015-05-11
-title: Taskserver 1.1.0 Released
+title: 'Taskserver 1.1.0 Released'
 aliases: ['/news/news.20150511.html']
 ---
 <div class="col-md-8 main">

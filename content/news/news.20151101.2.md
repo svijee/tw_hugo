@@ -1,6 +1,6 @@
 ---
 date: 2015-11-01
-title: Cygwin Package Maintainer Needed
+title: 'Cygwin Package Maintainer Needed'
 aliases: ['/news/news.20151101.2.html']
 ---
 <div class="col-md-8 main">

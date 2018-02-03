@@ -1,6 +1,6 @@
 ---
 date: 2014-02-12
-title: Git Hosting has migrated
+title: 'Git Hosting has migrated'
 aliases: ['/news/news.20140212.html']
 ---
 <div class="col-md-8 main">

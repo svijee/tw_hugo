@@ -1,6 +1,6 @@
 ---
 date: 2014-03-09
-title: System Status Pages
+title: 'System Status Pages'
 aliases: ['/news/news.20140309.html']
 ---
 <div class="col-md-8 main">

@@ -1,6 +1,6 @@
 ---
 date: 2014-09-28
-title: Cloud Server Reboots
+title: 'Cloud Server Reboots'
 aliases: ['/news/news.20140928.html']
 ---
 <div class="col-md-8 main">

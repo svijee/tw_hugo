@@ -1,6 +1,6 @@
 ---
 date: 2015-05-24
-title: Taskwarrior Live Demo
+title: 'Taskwarrior Live Demo'
 aliases: ['/news/news.20150524.html']
 ---
 <div class="col-md-8 main">

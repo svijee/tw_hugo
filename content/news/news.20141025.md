@@ -1,6 +1,6 @@
 ---
 date: 2014-10-25
-title: Sort Column Indicator
+title: 'Sort Column Indicator'
 aliases: ['/news/news.20141025.html']
 ---
 <div class="col-md-8 main">

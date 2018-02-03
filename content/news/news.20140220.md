@@ -1,6 +1,6 @@
 ---
 date: 2014-02-20
-title: VIT 1.2 beta1 is available
+title: 'VIT 1.2 beta1 is available'
 aliases: ['/news/news.20140220.html']
 ---
 <div class="col-md-8 main">

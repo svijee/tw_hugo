@@ -1,6 +1,6 @@
 ---
 date: 2016-06-04
-title: Activity Digest: May 2016
+title: 'Activity Digest: May 2016'
 aliases: ['/news/news.20160604.html']
 ---
 <div class="col-md-8 main">

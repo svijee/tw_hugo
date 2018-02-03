@@ -1,6 +1,6 @@
 ---
 date: 2017-01-13
-title: FOSDEM 2017: Taskwarrior Presence
+title: 'FOSDEM 2017: Taskwarrior Presence'
 aliases: ['/news/news.20170113.html']
 ---
 <div class="col-md-8 main">

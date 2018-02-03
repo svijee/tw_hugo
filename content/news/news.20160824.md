@@ -1,6 +1,6 @@
 ---
 date: 2016-08-24
-title: FrOSCon 2016 Materials Online
+title: 'FrOSCon 2016 Materials Online'
 aliases: ['/news/news.20160824.html']
 ---
 <div class="col-md-8 main">

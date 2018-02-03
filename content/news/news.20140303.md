@@ -1,6 +1,6 @@
 ---
 date: 2014-03-03
-title: Atlassian Licences
+title: 'Atlassian Licences'
 aliases: ['/news/news.20140303.html']
 ---
 <div class="col-md-8 main">

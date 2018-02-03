@@ -1,6 +1,6 @@
 ---
 date: 2014-02-17
-title: Server Migration
+title: 'Server Migration'
 aliases: ['/news/news.20140217.html']
 ---
 <div class="col-md-8 main">

@@ -1,6 +1,6 @@
 ---
 date: 2015-01-01
-title: Taskwarrior 2.4.0 Released
+title: 'Taskwarrior 2.4.0 Released'
 aliases: ['/news/news.20150101.html']
 ---
 <div class="col-md-8 main">

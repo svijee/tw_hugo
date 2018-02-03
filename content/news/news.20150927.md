@@ -1,6 +1,6 @@
 ---
 date: 2015-09-27
-title: Clog 1.2.0 Released
+title: 'Clog 1.2.0 Released'
 aliases: ['/news/news.20150927.html']
 ---
 <div class="col-md-8 main">

@@ -1,6 +1,6 @@
 ---
 date: 2016-07-25
-title: Timewarrior 1.0.0 Beta Release
+title: 'Timewarrior 1.0.0 Beta Release'
 aliases: ['/news/news.20160725.html']
 ---
 <div class="col-md-8 main">

@@ -1,6 +1,6 @@
 ---
 date: 2014-04-12
-title: Taskserver Documentation Update
+title: 'Taskserver Documentation Update'
 aliases: ['/news/news.20140412.html']
 ---
 <div class="col-md-8 main">
