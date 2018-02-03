@@ -1,6 +1,6 @@
 ---
 title: 'How Recurrence Works'
-url: '/docs/recurrence.html'
+url: "/docs/recurrence.html"
 ---
 <div class="col-md-10 main">
  <div class="row">

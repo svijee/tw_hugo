@@ -1,6 +1,6 @@
 ---
 title: 'Release History'
-url: '/docs/history.html'
+url: "/docs/history.html"
 ---
 <div class="col-md-10 main">
  <div class="row">

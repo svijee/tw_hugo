@@ -1,6 +1,6 @@
 ---
 title: 'Searching'
-url: '/docs/searching.html'
+url: "/docs/searching.html"
 ---
 <div class="col-md-10 main">
  <div class="row">

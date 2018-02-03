@@ -1,6 +1,6 @@
 ---
 title: 'Issue Manager'
-url: '/docs/jobs.html'
+url: "/docs/jobs.html"
 ---
 <div class="col-md-10 main">
  <div class="row">

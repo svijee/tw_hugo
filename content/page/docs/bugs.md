@@ -1,6 +1,6 @@
 ---
 title: 'How to Report a Bug'
-url: '/docs/bugs.html'
+url: "/docs/bugs.html"
 ---
 <div class="col-md-10 main">
  <div class="row">

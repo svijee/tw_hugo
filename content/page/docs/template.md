@@ -1,6 +1,6 @@
 ---
 title: 'Title'
-url: '/docs/template.html'
+url: "/docs/template.html"
 ---
 <div class="col-md-10 main">
  <div class="row">

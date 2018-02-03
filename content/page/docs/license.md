@@ -1,6 +1,6 @@
 ---
 title: 'The MIT License (MIT)'
-url: '/docs/license.html'
+url: "/docs/license.html"
 ---
 <div class="col-md-10 main">
  <div class="row">

@@ -1,6 +1,6 @@
 ---
 title: '30-Second Tutorial'
-url: '/docs/30second.html'
+url: "/docs/30second.html"
 ---
 <div class="col-md-10 main">
  <div class="row">

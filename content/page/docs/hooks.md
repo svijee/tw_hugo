@@ -1,6 +1,6 @@
 ---
 title: 'Hooks'
-url: '/docs/hooks.html'
+url: "/docs/hooks.html"
 ---
 <div class="col-md-10 main">
  <div class="row">

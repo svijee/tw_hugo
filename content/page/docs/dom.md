@@ -1,6 +1,6 @@
 ---
 title: 'DOM - Document Object Model'
-url: '/docs/dom.html'
+url: "/docs/dom.html"
 ---
 <div class="col-md-10 main">
  <div class="row">

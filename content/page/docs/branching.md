@@ -1,6 +1,6 @@
 ---
 title: 'Branching Model'
-url: '/docs/branching.html'
+url: "/docs/branching.html"
 ---
 <div class="col-md-10 main">
  <div class="row">

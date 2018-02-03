@@ -1,6 +1,6 @@
 ---
 title: 'Usage Examples'
-url: '/docs/examples.html'
+url: "/docs/examples.html"
 ---
 <div class="col-md-10 main">
  <div class="row">
