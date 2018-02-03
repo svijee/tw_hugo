@@ -5,12 +5,6 @@ aliases: ['/news/news.20151101.2.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Cygwin Package Maintainer Needed
-   <small>
-    2015-11-01
-   </small>
-  </h3>
   <p>
    We’re looking for someone to assume the responsibility of packaging
             Taskwarrior etc for Cygwin.

@@ -5,12 +5,6 @@ aliases: ['/news/news.20150907.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Taskwarrior 2.5.0 beta1 Released
-   <small>
-    2015-09-07
-   </small>
-  </h3>
   <p>
    After an intense four month effort, which focused mainly on a more
             capable command-line parser, more extension-friendly behavior, and

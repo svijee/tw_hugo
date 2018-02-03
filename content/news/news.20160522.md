@@ -5,12 +5,6 @@ aliases: ['/news/news.20160522.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Taskwarrior Tools Search
-   <small>
-    2016-05-22
-   </small>
-  </h3>
   <p>
    The
    <a href="/tools/">

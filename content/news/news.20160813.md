@@ -5,12 +5,6 @@ aliases: ['/news/news.20160813.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   FrOSCon 2016 - Taskwarrior Coverage
-   <small>
-    2016-08-13
-   </small>
-  </h3>
   <p>
    Taskwarrior will be well-represented at
    <a href="https://www.froscon.de">

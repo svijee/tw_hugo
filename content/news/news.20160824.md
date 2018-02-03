@@ -5,12 +5,6 @@ aliases: ['/news/news.20160824.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   FrOSCon 2016 Materials Online
-   <small>
-    2016-08-24
-   </small>
-  </h3>
   <p>
    <img class="img-responsive" src="/news/images/froscon.jpg"/>
    <small>

@@ -5,12 +5,6 @@ aliases: ['/news/news.20140220.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   VIT 1.2 beta1 is available
-   <small>
-    2014-02-20
-   </small>
-  </h3>
   <p>
    Beta1 of the VIT front-end for Taskwarrior is available for download now.
   </p>

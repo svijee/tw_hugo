@@ -5,12 +5,6 @@ aliases: ['/news/news.20140309.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   System Status Pages
-   <small>
-    2014-03-09
-   </small>
-  </h3>
   <p>
    New system status pages are online, which provide up to the minute
             status for the various services now online.

@@ -5,12 +5,6 @@ aliases: ['/news/news.20140217.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Server Migration
-   <small>
-    2014-02-17
-   </small>
-  </h3>
   <p>
    As we migrate to our new servers, you'll find that the services are
             being migrated first, and the content follows after. We are taking

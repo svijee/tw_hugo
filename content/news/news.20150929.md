@@ -5,12 +5,6 @@ aliases: ['/news/news.20150929.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   answers.tasktools.org Online
-   <small>
-    2015-09-29
-   </small>
-  </h3>
   <p>
    The
    <a href="https://answers.tasktools.org">

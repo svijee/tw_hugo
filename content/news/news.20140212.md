@@ -5,12 +5,6 @@ aliases: ['/news/news.20140212.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Git Hosting has migrated
-   <small>
-    2014-02-12
-   </small>
-  </h3>
   <p>
    The new repository manager, Stash, is running on the new server:
   </p>

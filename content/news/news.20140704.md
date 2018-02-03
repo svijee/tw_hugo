@@ -5,12 +5,6 @@ aliases: ['/news/news.20140704.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Taskwarrior 2.4.0 Preview
-   <small>
-    2014-07-04
-   </small>
-  </h3>
   <p>
    The Taskwarrior 2.4.0 development branch has been unusable for a
             a few weeks

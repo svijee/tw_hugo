@@ -5,12 +5,6 @@ aliases: ['/news/news.20140227.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   New Site Live
-   <small>
-    2014-02-27
-   </small>
-  </h3>
   <p>
    We have shut off the old website, and replaced it with this.
             Although this site is a fraction of the size, it nevertheless

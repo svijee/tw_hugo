@@ -5,12 +5,6 @@ aliases: ['/news/news.20140303.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Atlassian Licences
-   <small>
-    2014-03-03
-   </small>
-  </h3>
   <p>
    We have received the very generous donation of software licences
             from Atlassian.  This allows us to fully utilize Jira, Stash and

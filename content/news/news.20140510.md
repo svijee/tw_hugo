@@ -5,12 +5,6 @@ aliases: ['/news/news.20140510.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Swiss Ubucon Taskwarrior Workshop
-   <small>
-    2014-05-10
-   </small>
-  </h3>
   <p>
    On Saturday May 10th 2014, Dirk Deimeke presented a Taskwarrior
             workshop at

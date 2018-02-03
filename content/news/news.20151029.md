@@ -5,12 +5,6 @@ aliases: ['/news/news.20151029.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Taskwarrior Mailing Lists
-   <small>
-    2015-10-29
-   </small>
-  </h3>
   <p>
    The Taskwarrior user and developer mailing lists are back in play.
             Subscribe and talk to us:

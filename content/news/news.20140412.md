@@ -5,12 +5,6 @@ aliases: ['/news/news.20140412.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Taskserver Documentation Update
-   <small>
-    2014-04-12
-   </small>
-  </h3>
   <p>
    The Taskserver setup documentation has been significantly improved.
             The setup page is:

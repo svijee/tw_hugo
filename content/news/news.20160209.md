@@ -5,12 +5,6 @@ aliases: ['/news/news.20160209.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Taskwarrior Workflow Study
-   <small>
-    2016-02-09
-   </small>
-  </h3>
   <p>
    Taskwarrior aims to provide a toolkit of various capabilities, which
             can be cherry-picked to support many custom methodologies.

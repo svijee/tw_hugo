@@ -5,12 +5,6 @@ aliases: ['/news/news.20170308.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   HELLOTUX Shirts
-   <small>
-    2017-03-08
-   </small>
-  </h3>
   <p>
    We'd like to thank
    <a href="https://www.hellotux.com/">

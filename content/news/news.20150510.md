@@ -5,12 +5,6 @@ aliases: ['/news/news.20150510.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Taskwarrior 2.4.4 Released
-   <small>
-    2015-05-10
-   </small>
-  </h3>
   <p>
    Taskwarrior 2.4.4 is released.
 

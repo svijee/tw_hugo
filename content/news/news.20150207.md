@@ -5,12 +5,6 @@ aliases: ['/news/news.20150207.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Activity Digest: January 2015
-   <small>
-    2015-02-07
-   </small>
-  </h3>
   <p>
    This is the first of an ongoing series of activity reports,
             published monthly, to highlight activities in the Taskwarrior

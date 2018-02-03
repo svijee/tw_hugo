@@ -5,12 +5,6 @@ aliases: ['/news/news.20140607.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Vit 1.2 in Homebrew
-   <small>
-    2014-06-07
-   </small>
-  </h3>
   <p>
    The recently released
    <a href="/news/news.20140406.html">

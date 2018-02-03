@@ -5,12 +5,6 @@ aliases: ['/news/news.20141025.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Sort Column Indicator
-   <small>
-    2014-10-25
-   </small>
-  </h3>
   <p>
    In the upcoming Taskwarrior 2.4.0, there is now the ability to
             apply a different color to the columns of a report that are part

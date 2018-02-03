@@ -5,12 +5,6 @@ aliases: ['/news/news.20170113.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   FOSDEM 2017: Taskwarrior Presence
-   <small>
-    2017-01-13
-   </small>
-  </h3>
   <p>
    The Taskwarrior Team will be attending
    <a href="https://fosdem.org/2017/">

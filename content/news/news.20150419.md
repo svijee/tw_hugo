@@ -5,12 +5,6 @@ aliases: ['/news/news.20150419.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Taskwarrior 2.4.3 Released
-   <small>
-    2015-04-19
-   </small>
-  </h3>
   <p>
    User Defined Attributes (
    <a href="/docs/udas.html">

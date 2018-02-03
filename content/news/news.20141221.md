@@ -5,12 +5,6 @@ aliases: ['/news/news.20141221.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Tasksh 1.0.0 Released
-   <small>
-    2014-12-21
-   </small>
-  </h3>
   <p>
    The taskwarrior shell, tasksh 1.0.0, is released.
   </p>

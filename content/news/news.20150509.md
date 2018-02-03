@@ -5,12 +5,6 @@ aliases: ['/news/news.20150509.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Tasksh in Homebrew
-   <small>
-    2015-05-09
-   </small>
-  </h3>
   <p>
    Tasksh, the Taskwarrior Shell, can now be installed using
    <a href="http://brew.sh">

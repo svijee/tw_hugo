@@ -5,12 +5,6 @@ aliases: ['/news/news.20170510_2.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   BYOP MeetUp in Gothenburg
-   <small>
-    2017-05-10
-   </small>
-  </h3>
   <p>
    A BYOP (Bring Your Own Project) MeetUp was held in Gothenburg. We had the chance to present
             FLOD2 - our own CI, and distribute Taskwarrior stickers. The MeetUp presentation was followed

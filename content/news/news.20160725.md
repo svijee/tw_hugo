@@ -5,12 +5,6 @@ aliases: ['/news/news.20160725.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Timewarrior 1.0.0 Beta Release
-   <small>
-    2016-07-25
-   </small>
-  </h3>
   <p>
    Timewarrior 1.0.0 is in beta! Please download and give us feedback.
   </p>

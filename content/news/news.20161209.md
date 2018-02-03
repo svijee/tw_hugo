@@ -5,12 +5,6 @@ aliases: ['/news/news.20161209.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   In-House Talk and Workshop at TNG Technology Consulting
-   <small>
-    2016-12-09
-   </small>
-  </h3>
   <br/>
   <a href="http://www.tngtech.com">
    <img alt="TNG Technology Consulting" class="img-repsonsive" src="/news/images/tng.png" style="height:40px;"/>

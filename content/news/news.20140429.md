@@ -5,12 +5,6 @@ aliases: ['/news/news.20140429.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Teaching the Parser New Tricks
-   <small>
-    2014-04-29
-   </small>
-  </h3>
   <p>
    With Taskwarrior version 2.4.0, we are building a better command
             line parser. In addition to fixing a lot of annoying little bugs,

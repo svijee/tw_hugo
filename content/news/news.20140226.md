@@ -5,12 +5,6 @@ aliases: ['/news/news.20140226.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Registrations Disabled
-   <small>
-    2014-02-26
-   </small>
-  </h3>
   <p>
    No new users on the Redmine site.
   </p>

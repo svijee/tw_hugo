@@ -5,12 +5,6 @@ aliases: ['/news/news.20150524.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Taskwarrior Live Demo
-   <small>
-    2015-05-24
-   </small>
-  </h3>
   <p>
    Try Taskwarrior
    <a href="http://wbsch.de/jswarrior/">

@@ -5,12 +5,6 @@ aliases: ['/news/news.20140524.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Taskwarrior 2.4.0 Development Status
-   <small>
-    2014-05-24
-   </small>
-  </h3>
   <p>
    Taskwarrior 2.4.0 is in development. The main feature of this
             release is a new command line parser, and some related features

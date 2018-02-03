@@ -5,12 +5,6 @@ aliases: ['/news/news.20140816.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Development Status
-   <small>
-    2014-08-16
-   </small>
-  </h3>
   <p>
    Development is shifting focus for Taskwarrior and Taskserver. No
             more features will be added, and completeness, stability and testing

@@ -5,12 +5,6 @@ aliases: ['/news/news.20160225.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Taskwarrior for Android Released
-   <small>
-    2016-02-25
-   </small>
-  </h3>
   <p>
    Author Konstantin Vorobyev has created an Android client with Syncing
             and many other features.

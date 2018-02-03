@@ -5,12 +5,6 @@ aliases: ['/news/news.20170208.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   FOSDEM 2017: Reprise
-   <small>
-    2017-02-08
-   </small>
-  </h3>
   <p>
    It was the first time the whole Taskwarrior Team met in carbon space.
   </p>

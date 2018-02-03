@@ -5,12 +5,6 @@ aliases: ['/news/news.20140906.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Fish Shell Completion Demo
-   <small>
-    2014-09-06
-   </small>
-  </h3>
   <p>
    Taskwarrior 2.4.0 will be released with a fully updated Fish Shell
             completion script, from Roman Inflianskas. Here is a demo gif that

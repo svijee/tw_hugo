@@ -5,12 +5,6 @@ aliases: ['/news/news.20160627.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Clog 1.3.0 Released
-   <small>
-    2016-06-27
-   </small>
-  </h3>
   <p>
    Clog 1.3.0 is released, with regular expression improvements, bug
             fixes, rule precedence and overlapping match support.

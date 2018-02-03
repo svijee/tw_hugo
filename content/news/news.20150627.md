@@ -5,12 +5,6 @@ aliases: ['/news/news.20150627.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   GTD With Taskwarrior - a tutorial series
-   <small>
-    2015-06-27
-   </small>
-  </h3>
   <p>
    Tom Sydney Kerckhove is writing a series of articles, explaining how
             he uses GTD with Taskwarrior. The first five articles are up:

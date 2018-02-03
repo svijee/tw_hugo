@@ -5,12 +5,6 @@ aliases: ['/news/news.20170301.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Activity Digest: February 2017
-   <small>
-    2017-03-01
-   </small>
-  </h3>
   <p>
    This is an ongoing series of activity reports, published monthly,
             to highlight activity in our projects. Here is what happened in

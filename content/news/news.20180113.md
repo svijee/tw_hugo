@@ -5,12 +5,6 @@ aliases: ['/news/news.20180113.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Timewarrior 1.1.0 Released
-   <small>
-    2018-01-13
-   </small>
-  </h3>
   <p>
    Timewarrior 1.1.0 is released. With 18 months of updates, many
             bugs fixed, and new convenience features added, Timewarrior 1.1.0 is

@@ -5,12 +5,6 @@ aliases: ['/news/news.20140407.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Q &amp; A Site Launched
-   <small>
-    2014-04-07
-   </small>
-  </h3>
   <p>
    The new Q &amp; A site is live! Take a look at the site, which can
             be found here:

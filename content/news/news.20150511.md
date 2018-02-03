@@ -5,12 +5,6 @@ aliases: ['/news/news.20150511.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Taskserver 1.1.0 Released
-   <small>
-    2015-05-11
-   </small>
-  </h3>
   <p>
    After more than a year of improvements, Taskserver 1.1.0 is released.
   </p>

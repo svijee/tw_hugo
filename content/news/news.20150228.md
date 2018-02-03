@@ -5,12 +5,6 @@ aliases: ['/news/news.20150228.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Taskwarrior 2.4.1 on Cygwin 32 and 64 bit
-   <small>
-    2015-02-28
-   </small>
-  </h3>
   <p>
    Taskwarrior 2.4.1 is now available in binary and source package form
             for both Cygwin 32-bit and 64-bit systems.

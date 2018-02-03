@@ -5,12 +5,6 @@ aliases: ['/news/news.20170510.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Tasksh 1.2.0 Released
-   <small>
-    2017-05-10
-   </small>
-  </h3>
   <p>
    Tasksh 1.2.0 is released. This is mostly a bug fix release, and is
             a recommended upgrade.

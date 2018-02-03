@@ -5,12 +5,6 @@ aliases: ['/news/news.20151012.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Clog 1.2.1 Released
-   <small>
-    2015-10-12
-   </small>
-  </h3>
   <p>
    Clog 1.2.1 is released, due to a problem with OSX and Xcode 7.
   </p>

@@ -5,12 +5,6 @@ aliases: ['/news/news.20160707.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Activity Digest: June 2016
-   <small>
-    2016-07-07
-   </small>
-  </h3>
   <p>
    This is an ongoing series of activity reports, published monthly,
             to highlight activity in our projects. Here is what happened in

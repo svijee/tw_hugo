@@ -5,12 +5,6 @@ aliases: ['/news/news.20160905.2.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Tasksh 1.1.0 Released
-   <small>
-    2016-09-05
-   </small>
-  </h3>
   <p>
    Tasksh 1.1.0 is released, with an interactive review feature, ability
             to execute shell commands, and bug fixes.

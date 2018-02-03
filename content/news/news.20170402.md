@@ -5,12 +5,6 @@ aliases: ['/news/news.20170402.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Code Repositories Moved
-   <small>
-    2017-04-02
-   </small>
-  </h3>
   <p>
    The code repositories have been relocated to our new
    <a href="https://gitea.io/en-US/">

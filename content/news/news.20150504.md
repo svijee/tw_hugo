@@ -5,12 +5,6 @@ aliases: ['/news/news.20150504.html']
 ---
 <div class="col-md-8 main">
  <div class="row">
-  <h3>
-   Taskserver 1.1.0 beta1 Released
-   <small>
-    2015-04-04
-   </small>
-  </h3>
   <p>
    Taskserver 1.1.0 is in beta, and we are asking you to please test
             this release in your environment.
