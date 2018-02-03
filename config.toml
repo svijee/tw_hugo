@@ -1,0 +1,4 @@
+baseURL = "https://taskwarrior.org/"
+languageCode = "en-us"
+title = "Taskwarrior"
+theme = "gbf"
